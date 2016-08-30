@@ -128,4 +128,5 @@ bob.forward(+300)
 bob.hideturtle()
 
 turtle.mainloop()
+turtle.done()
 
